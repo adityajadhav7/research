@@ -39,3 +39,7 @@ return_data.mean()/return_data.std()
 return_data.mean().dot(W)/ (W.T.dot(return_data.cov().dot(W)))**(1/2)
 
 # reference: https://faculty.washington.edu/ezivot/econ424/portfolioTheoryMatrix.pdf
+
+# https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf
+# https://www.cmegroup.com/education/files/jpm-momentum-strategies-2015-04-15-1681565.pdf
+# https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687408
