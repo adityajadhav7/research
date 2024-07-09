@@ -36,3 +36,6 @@ def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
     return result
 
 createDataframe(student_data)
+
+
+df.groupby('A').agg({'B': ['min', 'max'], 'C': 'sum'})
