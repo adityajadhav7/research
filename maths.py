@@ -7,3 +7,10 @@ math.log(10)
 math.e
 
 math.exp(10)
+
+
+2+5
+
+5//2
+
+
