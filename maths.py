@@ -19,4 +19,4 @@ np.array([nums1, nums2]).flatten()
 
 5//2
 
-
+np.sqrt(10)
