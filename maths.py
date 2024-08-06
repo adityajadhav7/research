@@ -20,3 +20,7 @@ np.array([nums1, nums2]).flatten()
 5//2
 
 np.sqrt(10)
+
+
+data = pd.DataFrame({'name':['tata','hdfc'],'sales':[100,200]})
+data.head()
