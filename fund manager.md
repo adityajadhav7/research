@@ -96,6 +96,4 @@ Paul Tudor Jones - Bachlors degree in economics
 - Lee Ainslie of Maverick Capital 
 - Bill Hwang 
 - Philippe Laffont of Coetue Management(1999), a hedge fund and venture capital investor that focuses on technology-themed investing
-- 
-
 
