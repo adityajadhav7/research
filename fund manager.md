@@ -1,7 +1,7 @@
 - A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing
 - The Signal and the Noise: Why So Many Predictions Fail--but Some Don't 
 - The Most Important Thing: Uncommon Sense for The Thoughtful Investor
-- SECURITY ANALYSIS
+- Security Analysis
 - Margin of Safety
 - The Intelligent Investor
 - The Alchemy of Finance
@@ -15,8 +15,8 @@ he was hired for the summer in the Quantitative Strategies group of Emanuel Der
 Chriss recruited Jim Gatheral, Steve Allen, Peter Fraenkel (now head of Quantitative IT at UBS) and Nassim Taleb.		
 At Morgan Stanley, **Peter Muller** inspired Chriss to pursue quantitative trading
 Goldman Sachs Asset Management (GSAM) Quantitative Strategies group to develop a new trading strategy, after **Cliff Asness**, John M. Liew and Bob Krail left to form AQR Capital Management.
-https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17848
-https://www.youtube.com/watch?v=fvHqPNuPddc		 
+- https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=17848
+- https://www.youtube.com/watch?v=fvHqPNuPddc		 
 
 David E. Shaw	
 - Founding and managing D. E. Shaw & Co.
