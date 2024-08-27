@@ -87,3 +87,4 @@ all_weights[6408,:]*100
 # TODO: compute industrywise exposure 
 
 # ref: https://mishraayush447.medium.com/portfolio-optimization-using-python-b8d2b64e520e and https://www.codingfinance.com/post/2018-04-25-portfolio-beta-py/
+# ref: https://www.youtube.com/watch?v=Zc67XB4voC4
