@@ -24,3 +24,6 @@ np.sqrt(10)
 
 data = pd.DataFrame({'name':['tata','hdfc'],'sales':[100,200]})
 data.head()
+
+
+# bionomial bisection
